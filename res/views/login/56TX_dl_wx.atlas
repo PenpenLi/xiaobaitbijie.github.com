@@ -1,0 +1,118 @@
+
+56TX_dl_wx.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+56_dl_wx
+  rotate: false
+  xy: 2, 767
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_0
+  rotate: false
+  xy: 2, 614
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_1
+  rotate: false
+  xy: 329, 767
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_10
+  rotate: false
+  xy: 656, 461
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_11
+  rotate: false
+  xy: 2, 2
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_12
+  rotate: false
+  xy: 329, 155
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_13
+  rotate: false
+  xy: 656, 308
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_14
+  rotate: false
+  xy: 329, 2
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_2
+  rotate: false
+  xy: 2, 461
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_3
+  rotate: false
+  xy: 329, 614
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_4
+  rotate: false
+  xy: 656, 767
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_5
+  rotate: false
+  xy: 2, 308
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_6
+  rotate: false
+  xy: 329, 461
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_7
+  rotate: false
+  xy: 656, 614
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_8
+  rotate: false
+  xy: 2, 155
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1
+56_dl_wx_9
+  rotate: false
+  xy: 329, 308
+  size: 325, 151
+  orig: 325, 151
+  offset: 0, 0
+  index: -1

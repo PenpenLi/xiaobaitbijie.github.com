@@ -1,0 +1,270 @@
+
+56TX_dl_logo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+56_dl_an
+  rotate: true
+  xy: 517, 2
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+56_dl_dd1
+  rotate: false
+  xy: 402, 52
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+56_dl_di1
+  rotate: true
+  xy: 2, 38
+  size: 629, 398
+  orig: 629, 398
+  offset: 0, 0
+  index: -1
+56_dl_di2
+  rotate: false
+  xy: 2, 669
+  size: 654, 352
+  orig: 654, 352
+  offset: 0, 0
+  index: -1
+56_dl_fangkuai
+  rotate: false
+  xy: 594, 102
+  size: 414, 417
+  orig: 414, 417
+  offset: 0, 0
+  index: -1
+56_dl_g1
+  rotate: true
+  xy: 850, 554
+  size: 467, 142
+  orig: 467, 142
+  offset: 0, 0
+  index: -1
+56_dl_g2
+  rotate: false
+  xy: 594, 567
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+56_dl_g3
+  rotate: false
+  xy: 594, 606
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+56_dl_logo
+  rotate: true
+  xy: 658, 521
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_0
+  rotate: true
+  xy: 402, 167
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_xx1
+  rotate: false
+  xy: 850, 526
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+56_dl_xx2
+  rotate: false
+  xy: 517, 91
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+56_dl_xx3
+  rotate: false
+  xy: 594, 529
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+56_dl_xx4
+  rotate: false
+  xy: 593, 10
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+
+56TX_dl_logo2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+56_dl_logo_1
+  rotate: false
+  xy: 2, 770
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_10
+  rotate: false
+  xy: 504, 2
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_2
+  rotate: false
+  xy: 2, 578
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_3
+  rotate: false
+  xy: 504, 770
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_4
+  rotate: false
+  xy: 2, 386
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_5
+  rotate: false
+  xy: 504, 578
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_6
+  rotate: false
+  xy: 2, 194
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_7
+  rotate: false
+  xy: 504, 386
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_8
+  rotate: false
+  xy: 2, 2
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_9
+  rotate: false
+  xy: 504, 194
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+
+56TX_dl_logo3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+56_dl_dd2
+  rotate: false
+  xy: 2, 232
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+56_dl_dd3
+  rotate: false
+  xy: 504, 439
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+56_dl_dd4
+  rotate: false
+  xy: 789, 616
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+56_dl_dd5
+  rotate: false
+  xy: 2, 117
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+56_dl_dd6
+  rotate: false
+  xy: 117, 232
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+56_dl_dd7
+  rotate: false
+  xy: 619, 439
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+56_dl_dd8
+  rotate: false
+  xy: 2, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+56_dl_logo_11
+  rotate: false
+  xy: 2, 731
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_12
+  rotate: false
+  xy: 2, 539
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_13
+  rotate: false
+  xy: 504, 731
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_logo_14
+  rotate: false
+  xy: 2, 347
+  size: 500, 190
+  orig: 500, 190
+  offset: 0, 0
+  index: -1
+56_dl_maozi
+  rotate: false
+  xy: 504, 554
+  size: 283, 175
+  orig: 283, 175
+  offset: 0, 0
+  index: -1

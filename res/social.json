@@ -1,0 +1,21 @@
+{
+  "appkey":{
+    "ios":"5927f511b27b0a391a000f44",
+    "android": "5927f4fc04e2059fcd000e1d"
+  },
+  "link": "http://www.baidu.me",
+  "platforms": {
+    "Wechat": {
+      "appid": "wxab14a42bf9c188bb",
+      "appsecret": "502b8672719bfc65298bc2387d7dfffb",
+      "ui": true,
+      "order": 1
+    },
+    "WechatMoments": {
+      "appid": "wxab14a42bf9c188bb",
+      "appsecret": "502b8672719bfc65298bc2387d7dfffb",
+      "ui": true,
+      "order": 2
+    }
+  }
+}
