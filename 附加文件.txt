@@ -1,0 +1,4 @@
+res
+src
+framework
+win32
